@@ -30,19 +30,19 @@ A React Native application that showcases movies using the TVMaze API with a Net
 
 ## Usage
    
-   **Splash Screen:** Displays a splash screen for 3 seconds before navigating to the Home tab.
-   **Home Screen:** Browse popular movies and click to view details.
-   **Search Screen:** Search for movies by typing in the search bar.
+- **Splash Screen:** Displays a splash screen for 3 seconds before navigating to the Home tab.
+- **Home Screen:** Browse popular movies and click to view details.
+- **Search Screen:** Search for movies by typing in the search bar.
    
 ## Technologies
-   **React Native:** A framework for building native apps using React.
-   **TVMaze API:** An API for fetching movie and show data.
-   **React Navigation:** Navigation between screens and tabs.
+- **React Native:** A framework for building native apps using React.
+- **TVMaze API:** An API for fetching movie and show data.
+- **React Navigation:** Navigation between screens and tabs.
    
 ## Folder Structure
-**screens/:** Contains the SplashScreen, HomeScreen, SearchScreen, and DetailsScreen.
-**assets/:** Includes images and other media files.
-**App.js:** Main file that handles navigation setup.
+- **screens/:** Contains the SplashScreen, HomeScreen, SearchScreen, and DetailsScreen.
+- **assets/:** Includes images and other media files.
+- **App.js:** Main file that handles navigation setup.
 
 ## Contributing
 Feel free to fork this repository and create pull requests. Contributions are welcome!
